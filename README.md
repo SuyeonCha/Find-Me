@@ -14,6 +14,6 @@
 <br>
 
  <h3>화면</h3>
- <div><img width="60%" src="https://user-images.githubusercontent.com/81402961/228595102-21fc33e6-2d97-4c25-88a4-f9d16e8288ea.png"/> <img width="40%" src="https://user-images.githubusercontent.com/81402961/228595195-38e3b21c-ede1-47d0-b62d-7d2916871644.PNG"/></div>
+ <div><img width="60%" src="https://user-images.githubusercontent.com/81402961/228595102-21fc33e6-2d97-4c25-88a4-f9d16e8288ea.png"/> <img width="60%" src="https://user-images.githubusercontent.com/81402961/228595195-38e3b21c-ede1-47d0-b62d-7d2916871644.PNG"/></div>
 <br>
 
